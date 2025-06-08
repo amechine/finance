@@ -1,1 +1,1 @@
-Welcome to my [wiki](https://github.com/amechine/finance/wiki)
+Welcome to my [Wiki](https://github.com/amechine/finance/wiki)
